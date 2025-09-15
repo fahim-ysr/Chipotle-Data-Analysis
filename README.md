@@ -2,6 +2,8 @@
 
 A comprehensive data science project analyzing Chipotle transaction data to extract business insights through statistical analysis, machine learning, and customer segmentation.
 
+![image](UC.png)
+
 ## 🎯 Project Overview
 
 This project demonstrates end-to-end data analysis capabilities including data preprocessing, exploratory data analysis, predictive modeling, and unsupervised learning techniques on real-world restaurant sales data.
